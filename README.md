@@ -1,4 +1,4 @@
-# unifaj-neuralnetworks
+# Unifaj Neural Networks
 A repository for referencing neural networks projects developed by UNIFAJ Computer Science's groups.
 
 # Grupos
