@@ -3,14 +3,9 @@ A repository for referencing neural networks projects developed by UNIFAJ Comput
 
 # Grupos
 
-## IA de possíveis doenças
-
-### Links
-  - https://github.com/Rafael212001/AppIAMedico.git
-
----
-
-## Tradutor e Fala
-
-### Links
-  - https://github.com/GabrielKuroda/AWS-python-translator
+| Tema         | Github         |
+|------	|--------	|
+|IA de possíveis doenças|https://github.com/Rafael212001/AppIAMedico.git|
+|Tradutor e Fala|https://github.com/GabrielKuroda/AWS-python-translator|
+|Presenca - Reconhecimento Facial|https://github.com/oacin/attendance-project/|
+|Detecção de pássaros com base em seus sons|https://github.com/Guslucas/bird-detecion-app|
