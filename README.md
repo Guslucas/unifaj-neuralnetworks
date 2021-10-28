@@ -10,3 +10,4 @@ A repository for referencing neural networks projects developed by UNIFAJ Comput
 |Presenca - Reconhecimento Facial|https://github.com/oacin/attendance-project/|
 |Detecção de pássaros com base em seus sons|https://github.com/Guslucas/bird-detecion-app|
 |Deepscale|https://github.com/inrunieduk/deepscale|
+|Tradução de Libras|https://github.com/js-siqueira/ProjetoIALibras|
